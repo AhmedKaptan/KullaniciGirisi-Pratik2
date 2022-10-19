@@ -13,7 +13,7 @@ public class Main {
         sifre = input.nextLine();
 
         //Girdilerin doğru olup olmadığı kontrol edilir
-        boolean kullanici= kullaniciAdi.equals("Esra-Turk");
+        boolean kullanici= kullaniciAdi.equals("ahmed-Turk");
         boolean sifresi = sifre.equals("12345");
 
         //Başarılı giriş işlemi
